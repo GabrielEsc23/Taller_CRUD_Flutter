@@ -107,7 +107,7 @@ Campos almacenados:
 
 ## HomePage
 
-![Home](img7.jpeg)
+![Home](img5.jpeg)
 
 > Captura de la pantalla principal.
 
@@ -123,7 +123,7 @@ Campos almacenados:
 
 ## FormPage
 
-![Formulario](img5.jpeg)
+![Formulario](img7.jpeg)
 
 > Captura del formulario para crear o editar videojuegos.
 
