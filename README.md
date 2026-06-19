@@ -97,7 +97,7 @@ Campos almacenados:
 
 ## Registros almacenados
 
-![MongoDB Atlas](img1.jpeg)
+![MongoDB Atlas](img7.jpeg)
 
 > Insertar aquí una captura de MongoDB Atlas mostrando los registros almacenados.
 
@@ -107,7 +107,7 @@ Campos almacenados:
 
 ## HomePage
 
-![Home](img2.jpeg)
+![Home](img6.jpeg)
 
 > Captura de la pantalla principal.
 
@@ -115,7 +115,7 @@ Campos almacenados:
 
 ## CollectionPage
 
-![Collection](img3.jpeg)
+![Collection](img5.jpeg)
 
 > Captura de la lista de videojuegos almacenados.
 
@@ -131,7 +131,7 @@ Campos almacenados:
 
 ## DetailPage
 
-![Detalle](img5.jpeg)
+![Detalle](img3.jpeg)
 
 > Captura del detalle completo de un videojuego.
 
@@ -139,7 +139,7 @@ Campos almacenados:
 
 ## ApiExplorerPage
 
-![API](img6.jpeg)
+![API](img2.jpeg)
 
 > Captura del consumo de la API CheapShark con infinite scrolling.
 
@@ -147,7 +147,7 @@ Campos almacenados:
 
 ## AboutPage
 
-![About](img7.jpeg)
+![About](img1.jpeg)
 
 > Captura de la pantalla "Acerca de".
 
